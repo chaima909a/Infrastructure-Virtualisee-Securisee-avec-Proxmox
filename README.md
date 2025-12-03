@@ -14,8 +14,6 @@ Ce projet consiste à déployer une infrastructure virtualisée complète basée
 ## 🧰 Technologies
 Proxmox VE • PBS • NFS • Zabbix • Grafana • Postfix • Google Authenticator
 
-## 🗺️ Architecture
-![Infrastructure Proxmox](architecture.png)
 
 ## ⚙️ Résultats
 ✅ Cluster Proxmox fonctionnel avec HA  
